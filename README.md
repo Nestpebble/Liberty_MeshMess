@@ -53,6 +53,8 @@ The battery ADC for the PiPico requires 2x 500kΩ resistors or similar.
 
 The Ebyte E22-900M30S requires 5V to operate, which has to be supplied using the JST connector if you're using a Pro-Micro. I've protected the battery pin on the Pro-Micro with a diode. Forward voltage drop on the diode should ideally be 0.8-1.5V. A shawty diode can be used, but you might want to use a couple in series to get the drop needed.
 
+C1 and C2 are 1206 100uF MLCC capacitors. I put them in because everyone seems to. I've not had a problem without them, but I bought a reel of 100, so I may as well use them up, right?
+
 ### Variations on parts
 You can use 1206, 0805 or 0603 size resistors, or you can use through-hole. Only use one size at a time!
 
@@ -61,6 +63,6 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzNTgwNSwtMTU5NzE2NDMxMSwxMz
-MwOTAxOTM5LC0xMTgxNjEwMjIxXX0=
+eyJoaXN0b3J5IjpbMTA1NjEzNDk0MCwtMTMwOTM1ODA1LC0xNT
+k3MTY0MzExLDEzMzA5MDE5MzksLTExODE2MTAyMjFdfQ==
 -->
