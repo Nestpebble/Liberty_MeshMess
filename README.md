@@ -10,7 +10,11 @@ Most PCB makers will only sell you boards in multiples of 5. OSHPark will only s
 
 This board will allow you to try lots of different things.
 
-It accepts a Pro-micro, or can be used as a Pi-hat. If you use the one with Ellis Pi-land at
+It accepts a Pro-micro, or can be used as a Pi-hat. If you use the one with Ellis Pi-land attached, you can also use a Pi-Pico.
+
+Why is it called Liberty? Because it accepts all your modules, almost regardless of type.
+
+Why is it called MeshMess? Have you looked at it‽‽‽
 
 ## BOM
 Modules supported:
@@ -31,5 +35,5 @@ Modules supported:
 ### Parts needed
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDEzNjkyN119
+eyJoaXN0b3J5IjpbMTI3NDQxODQyN119
 -->
