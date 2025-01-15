@@ -35,7 +35,11 @@ Modules supported:
 ### Parts needed
 If you are using an ebyte E22 module (one marked with a * above), you will need 2x 100kΩ resistors, 1x N-channel mosfet, and 1x P-channel mosfet. This runs the automatic RF switching.
 
-If you are using any of the other modules, those parts are unnecces
+If you are using any of the other modules, those parts are unnecessary.
+
+If you're using a WIO SX1262, you will need to adjust the PiPico variant firmware to accept RXEN on GPIO18.
+
+The battery ADC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc1NzgyNzhdfQ==
+eyJoaXN0b3J5IjpbMTcxMTQwNDI3NV19
 -->
