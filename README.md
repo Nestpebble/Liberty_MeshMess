@@ -33,7 +33,9 @@ Modules supported:
 - Lora1262
 
 ### Parts needed
+If you are using an ebyte E22 module, you will need 2x 100kΩ resistors, 1x N-channel mosfet, and 1x P-channel mosfet. This runs the automatic RF switching.
 
+If you are using 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDQxODQyN119
+eyJoaXN0b3J5IjpbLTQ0NDE0MzU2N119
 -->
