@@ -7,6 +7,10 @@ If this is interesting, check out my other stuff:
 [Femtofox](https://github.com/Nestpebble/Femtofox_Community_Hardware)
 [NiceRa Pro Micro Nodes](https://github.com/Nestpebble/NiceRa)
 
+![Liberty MeshMess](https://raw.githubusercontent.com/Nestpebble/Liberty_MeshMess/refs/heads/main/assets/meshmess_front.webp)
+![Liberty MeshMess](https://raw.githubusercontent.com/Nestpebble/Liberty_MeshMess/refs/heads/main/assets/meshmess_back.webp)
+
+
 ## Use Case
 Maybe you bought some radio modules on a whim. Maybe you clicked the wrong thing on Aliexpress. Maybe you couldn't make up your mind whether you wanted 22db or 30db, and bought both. Maybe you just want to try *all the things*.
 
@@ -55,6 +59,6 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcxNjQzMTEsMTMzMDkwMTkzOSwtMT
-E4MTYxMDIyMV19
+eyJoaXN0b3J5IjpbMTkxMjgyMzgxMSwtMTU5NzE2NDMxMSwxMz
+MwOTAxOTM5LC0xMTgxNjEwMjIxXX0=
 -->
