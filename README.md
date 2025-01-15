@@ -55,6 +55,10 @@ The Ebyte E22-900M30S requires 5V to operate, which has to be supplied using the
 
 C1 and C2 are 1206 100uF MLCC capacitors. I put them in because everyone seems to. I've not had a problem without them, but I bought a reel of 100, so I may as well use them up, right?
 
+<details> <summary>Spoiler</summary>
+
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Liberty_MeshMess/refs/heads/main/assets/capBae.png)
+
 ### Variations on parts
 You can use 1206, 0805 or 0603 size resistors, or you can use through-hole. Only use one size at a time!
 
@@ -63,6 +67,7 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjEzNDk0MCwtMTMwOTM1ODA1LC0xNT
-k3MTY0MzExLDEzMzA5MDE5MzksLTExODE2MTAyMjFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTUyMDc3NTUsMTA1NjEzNDk0MCwtMT
+MwOTM1ODA1LC0xNTk3MTY0MzExLDEzMzA5MDE5MzksLTExODE2
+MTAyMjFdfQ==
 -->
