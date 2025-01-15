@@ -59,6 +59,8 @@ C1 and C2 are 1206 100uF MLCC capacitors. I put them in because everyone seems t
 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Liberty_MeshMess/refs/heads/main/assets/capBae.png)
 
+</details>
+
 ### Variations on parts
 You can use 1206, 0805 or 0603 size resistors, or you can use through-hole. Only use one size at a time!
 
@@ -67,7 +69,7 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUyMDc3NTUsMTA1NjEzNDk0MCwtMT
+eyJoaXN0b3J5IjpbLTEyMDM5MzQwNzgsMTA1NjEzNDk0MCwtMT
 MwOTM1ODA1LC0xNTk3MTY0MzExLDEzMzA5MDE5MzksLTExODE2
 MTAyMjFdfQ==
 -->
