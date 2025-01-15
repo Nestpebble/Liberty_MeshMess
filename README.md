@@ -43,7 +43,10 @@ The battery ADC for the Pro-Micro requires 1x 220kΩ and 1x 330kΩ resistor.
 
 The battery ADC for the PiPico requires 2x 500kΩ resistors or similar.
 
+### Variations on parts
+You can use 1206, 0805 or 0603 size resistors, or you can use through-hole. Only use one size at a time!
 
+You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprints, but pay attention to the pins on TO92 type ones - they can be tricksy. Again, only use one type per position!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA0NzQzNDldfQ==
+eyJoaXN0b3J5IjpbLTE4MTQxMjU1NjZdfQ==
 -->
