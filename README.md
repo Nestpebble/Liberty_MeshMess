@@ -43,10 +43,12 @@ The battery ADC for the Pro-Micro requires 1x 220kΩ and 1x 330kΩ resistor.
 
 The battery ADC for the PiPico requires 2x 500kΩ resistors or similar.
 
+The Ebyte E22-900M30S requires 5V to operate, which has to be supplied using the JST connector if you're using a Pro-Micro. I've protected the battery pin on the Pro-Micro with a diode. Forward voltage drop on the diode should ideally be 0.8-1.5V. A shawty diode can be used, but you might want to use a couple
+
 ### Variations on parts
 You can use 1206, 0805 or 0603 size resistors, or you can use through-hole. Only use one size at a time!
 
 You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprints, but pay attention to the pins on TO92 type ones - they can be tricksy. Again, only use one type per position!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQxMjU1NjZdfQ==
+eyJoaXN0b3J5IjpbNzEzMDM4ODQ3XX0=
 -->
