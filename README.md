@@ -19,9 +19,9 @@ Why is it called MeshMess? Have you looked at it‽‽‽
 ## BOM
 Modules supported:
 #### CDEbyte
-- E22-900M30S
-- E22-900M22S
-- E22-900MM22S
+- E22-900M30S *
+- E22-900M22S *
+- E22-900MM22S *
 - E80-900M2213S
 #### AI-Thinker
 - RA-01SH
@@ -37,5 +37,5 @@ If you are using an ebyte E22 module, you will need 2x 100kΩ resistors, 1x N-ch
 
 If you are using 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDE0MzU2N119
+eyJoaXN0b3J5IjpbNTI1MzI3MjcxXX0=
 -->
