@@ -8,11 +8,9 @@ If this is interesting, check out my other stuff:
 [NiceRa Pro Micro Nodes](https://github.com/Nestpebble/NiceRa)
 
 ## Use Case
-Maybe you bought some radio modules on a whim? Maybe you clicked the wrong thing on Aliexpress. Maybe you couldn't make up your mind whether you wanted 22db or 30db, and bought both. Maybe you just want to try *all the things*.
+Maybe you bought some radio modules on a whim. Maybe you clicked the wrong thing on Aliexpress. Maybe you couldn't make up your mind whether you wanted 22db or 30db, and bought both. Maybe you just want to try *all the things*.
 
-Most PCB makers will only sell you boards in multiples of 5. OSHPark will only sell in multiples of 3. Either way, if you only have one module, you've got some spares.
-
-This board will allow you to try lots of different things.
+Most PCB makers will only sell you boards in multiples of 5. If you only have one module, you've got some spares. This board will allow you to try lots of different things, all on the same board.
 
 It accepts an NRF52840 Pro-micro, or can be used as a Pi-hat. If you use the one with Ellis Pi-land attached, you can also use a Pi-Pico.
 
@@ -57,5 +55,6 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDkwMTkzOSwtMTE4MTYxMDIyMV19
+eyJoaXN0b3J5IjpbLTE1OTcxNjQzMTEsMTMzMDkwMTkzOSwtMT
+E4MTYxMDIyMV19
 -->
