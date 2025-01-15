@@ -10,7 +10,7 @@ Most PCB makers will only sell you boards in multiples of 5. OSHPark will only s
 
 This board will allow you to try lots of different things.
 
-It accepts a Pro-micro, or can be used as a Pi-hat. If you use the one with Ellis Pi-land attached, you can also use a Pi-Pico.
+It accepts an NRF52840 Pro-micro, or can be used as a Pi-hat. If you use the one with Ellis Pi-land attached, you can also use a Pi-Pico.
 
 Why is it called Liberty? Because it accepts all your modules, almost regardless of type.
 
@@ -39,7 +39,11 @@ If you are using any of the other modules, those parts are unnecessary.
 
 If you're using a WIO SX1262, you will need to adjust the PiPico variant firmware to accept RXEN on GPIO18.
 
-The battery ADC 
+The battery ADC for the Pro-Micro requires 1x 220kΩ and 1x 330kΩ resistor.
+
+The battery ADC for the PiPico requires 2x 500kΩ resistors or similar.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTQwNDI3NV19
+eyJoaXN0b3J5IjpbLTE0OTA0NzQzNDldfQ==
 -->
