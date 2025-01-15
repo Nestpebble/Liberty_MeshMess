@@ -3,6 +3,10 @@ A PCB to make any LoRa module useful.
 
 PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 
+If this is interesting, check out my other stuff:
+[Femtofox](https://github.com/Nestpebble/Femtofox_Community_Hardware)
+[NiceRa Pro Micro Nodes](https://github.com/Nestpebble/NiceRa)
+
 ## Use Case
 Maybe you bought some radio modules on a whim? Maybe you clicked the wrong thing on Aliexpress. Maybe you couldn't make up your mind whether you wanted 22db or 30db, and bought both. Maybe you just want to try *all the things*.
 
@@ -53,5 +57,5 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE2MTAyMjFdfQ==
+eyJoaXN0b3J5IjpbMTMzMDkwMTkzOSwtMTE4MTYxMDIyMV19
 -->
