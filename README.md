@@ -4,7 +4,9 @@ A PCB to make any LoRa module useful.
 PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 
 If this is interesting, check out my other stuff:
+
 [Femtofox](https://github.com/Nestpebble/Femtofox_Community_Hardware)
+
 [NiceRa Pro Micro Nodes](https://github.com/Nestpebble/NiceRa)
 
 ![Liberty MeshMess](https://raw.githubusercontent.com/Nestpebble/Liberty_MeshMess/refs/heads/main/assets/meshmess_front.webp)
@@ -59,6 +61,6 @@ You can use SOT23 mosfets, or through-hole ones. SOT23 are pretty fixed footprin
 ### Future expansion
 You'll notice the schematic has a couple of crossed-out boards. Yeah, I couldn't be bothered to add them all. Maybe later?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjgyMzgxMSwtMTU5NzE2NDMxMSwxMz
+eyJoaXN0b3J5IjpbLTEzMDkzNTgwNSwtMTU5NzE2NDMxMSwxMz
 MwOTAxOTM5LC0xMTgxNjEwMjIxXX0=
 -->
