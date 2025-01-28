@@ -5,7 +5,7 @@ PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 
 If this is interesting, check out my other stuff:
 
-[Femtofox](https://github.com/Nestpebble/Femtofox_Community_Hardware)
+[Femtofox](https://github.com/Femtofox/Femtofox_Community_Hardware)
 
 [NiceRa Pro Micro Nodes](https://github.com/Nestpebble/NiceRa)
 
